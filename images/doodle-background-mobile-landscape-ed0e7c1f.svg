@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="667px" height="604px" viewBox="0 0 667 604" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 126 + Group + Group Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-6" sketch:type="MSArtboardGroup">
+            <g id="Rectangle-126-+-Group-+-Group-Copy" sketch:type="MSLayerGroup" transform="translate(-2.000000, 0.000000)">
+                <rect id="Rectangle-126" fill="#378DF1" sketch:type="MSShapeGroup" x="0" y="0" width="671" height="604"></rect>
+                <g id="Group" transform="translate(38.000000, 15.000000)" stroke="#3583DD" stroke-width="6" sketch:type="MSShapeGroup">
+                    <g id="Imported-Layers-Copy-5-+-Imported-Layers-Copy-6" transform="translate(47.500000, 75.500000) rotate(-26.000000) translate(-47.500000, -75.500000) translate(12.000000, 40.000000)" stroke-linecap="round">
+                        <path d="M0.999999975,36 L71,36" id="Imported-Layers-Copy-5"></path>
+                        <path d="M36,0.611847581 L36,70.6118476" id="Imported-Layers-Copy-6"></path>
+                    </g>
+                    <path d="M128.420924,464.296234 L140.916105,474.771599 L153.412912,464.296234 L165.909718,474.771599 L178.409776,464.296234 L190.90008,474.771599 L203.396887,464.296234 L215.893693,474.771599 L228.3905,464.296234 L240.890557,474.771599 L253.393866,464.296234 L265.893923,474.771599 L278.402108,464.296234 L290.911918,474.771599" id="Imported-Layers-Copy-2" stroke-linecap="round" transform="translate(212.133923, 472.624705) rotate(-32.000000) translate(-212.133923, -472.624705) "></path>
+                    <g id="Oval-38-Copy" transform="translate(186.000000, 0.000000)">
+                        <circle id="Oval-38" cx="52.5" cy="52.5" r="52.5"></circle>
+                    </g>
+                    <g id="Oval-38-Copy-2" transform="translate(11.500000, 498.000377)">
+                        <circle id="Oval-38" cx="36" cy="36" r="36"></circle>
+                    </g>
+                    <path d="M290.747878,305.5 L154.84405,305.5 L229.84405,174.5 L304.84405,305.5 L290.747878,305.5 Z" id="Imported-Layers-Copy-4" stroke-linecap="round" transform="translate(229.844050, 240.000000) rotate(-31.000000) translate(-229.844050, -240.000000) "></path>
+                    <path d="M10.5,350.727684 L109.5,240.727686" id="Imported-Layers-Copy-7" stroke-linecap="round"></path>
+                </g>
+                <g id="Group-Copy" transform="translate(506.500000, 300.500000) rotate(-180.000000) translate(-506.500000, -300.500000) translate(360.000000, 15.000000)" stroke="#3583DD" stroke-width="6" sketch:type="MSShapeGroup">
+                    <g id="Imported-Layers-Copy-5-+-Imported-Layers-Copy-6" transform="translate(47.500000, 126.500000) rotate(-26.000000) translate(-47.500000, -126.500000) translate(12.000000, 91.000000)" stroke-linecap="round">
+                        <path d="M0.999999975,36 L71,36" id="Imported-Layers-Copy-5"></path>
+                        <path d="M36,0.611847581 L36,70.6118476" id="Imported-Layers-Copy-6"></path>
+                    </g>
+                    <path d="M128.420924,464.296234 L140.916105,474.771599 L153.412912,464.296234 L165.909718,474.771599 L178.409776,464.296234 L190.90008,474.771599 L203.396887,464.296234 L215.893693,474.771599 L228.3905,464.296234 L240.890557,474.771599 L253.393866,464.296234 L265.893923,474.771599 L278.402108,464.296234 L290.911918,474.771599" id="Imported-Layers-Copy-2" stroke-linecap="round" transform="translate(212.133923, 472.624705) rotate(23.000000) translate(-212.133923, -472.624705) "></path>
+                    <g id="Oval-38-Copy" transform="translate(186.000000, -0.000000)">
+                        <circle id="Oval-38" cx="52.5" cy="52.5" r="52.5"></circle>
+                    </g>
+                    <g id="Oval-38-Copy-2" transform="translate(11.500000, 498.000377)">
+                        <circle id="Oval-38" cx="36" cy="36" r="36"></circle>
+                    </g>
+                    <path d="M253.895733,265.272314 L117.991906,265.272314 L192.991906,134.272314 L267.991906,265.272314 L253.895733,265.272314 Z" id="Imported-Layers-Copy-4" stroke-linecap="round" transform="translate(192.991906, 199.772314) rotate(-31.000000) translate(-192.991906, -199.772314) "></path>
+                    <path d="M10.5,350.727684 L109.5,240.727686" id="Imported-Layers-Copy-7" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="85px" viewBox="0 0 43 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle-10 + Stroke-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rectangle-10-+-Stroke-3" sketch:type="MSLayerGroup" transform="translate(-0.000000, 0.000000)">
+            <path d="M0.142857143,85 L0,0 L43,42.5707155 L0.142857143,85 L0.142857143,85 Z" id="Rectangle-10" fill="currentColor" sketch:type="MSShapeGroup" transform="translate(21.500000, 42.500000) scale(1, -1) translate(-21.500000, -42.500000) "></path>
+            <path d="M12.672766,50.5716271 C12.272766,50.5716271 11.869766,50.4526271 11.518766,50.2036271 C10.616766,49.5656271 10.403766,48.3166271 11.042766,47.4156271 L14.522766,42.5006271 L11.042766,37.5846271 C10.403766,36.6826271 10.616766,35.4346271 11.518766,34.7966271 C12.421766,34.1576271 13.668766,34.3716271 14.306766,35.2726271 L19.425766,42.5006271 L14.306766,49.7276271 C13.916766,50.2776271 13.299766,50.5716271 12.672766,50.5716271" id="Fill-3" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(15.050000, 42.500000) rotate(-180.000000) translate(-15.050000, -42.500000) "></path>
+        </g>
+    </g>
+</svg>

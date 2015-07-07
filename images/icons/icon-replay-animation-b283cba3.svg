@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-replay-animation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon-replay-animation" sketch:type="MSLayerGroup">
+            <circle id="Oval-7" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="28" cy="28" r="28"></circle>
+            <path d="M38.3535147,30.714043 C37.5622398,30.3265842 36.5731462,30.714043 36.1775088,31.4889608 C34.7927778,34.6854964 31.6276784,36.7196554 28.1658509,36.7196554 C23.3192924,36.7196554 19.3629181,32.7482021 19.3629181,28.001831 C19.3629181,23.1585953 23.3192924,19.2840067 28.1658509,19.2840067 C29.5505819,19.2840067 30.9353129,19.5746008 32.1222252,20.2526538 L30.144038,22.577407 L37.8589679,23.1585953 L35.8807807,15.7000122 L34.1993217,17.6373065 C32.3200439,16.5717946 30.2429474,15.9906064 28.0669415,15.9906064 C21.4400146,15.9906064 16,21.4150304 16,28.001831 C16,34.5886316 21.4400146,40.0130557 28.0669415,40.0130557 C32.8145907,40.0130557 37.1666024,37.2039789 39.1447895,32.9419315 C39.5404269,32.0701491 39.1447895,31.1015019 38.3535147,30.714043" id="Imported-Layers" fill="#FB7557" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

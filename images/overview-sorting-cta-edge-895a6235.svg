@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6px" height="24px" viewBox="0 0 6 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>overview-sorting-cta-edge</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="7" height="24"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="overview-sorting-cta-edge" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2" fill="#07A862" sketch:type="MSShapeGroup" x="1" y="0" width="5" height="24"></rect>
+            <mask id="mask-2" sketch:name="path-1" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="path-1"></g>
+            <g id="Group" mask="url(#mask-2)" fill="#FEC8BC" sketch:type="MSShapeGroup">
+                <g transform="translate(0.000000, -285.500000)" id="Shape">
+                    <path d="M0,0.200000763 C0.8,0.200000763 -0.4,0.200000763 0.3,0.200000763 L6,12.1000008 L0.3,24.0000008 L6,35.9000008 L0.3,47.8000008 L6,59.7000008 L0.3,71.6000008 L6,83.5000008 L0.3,95.4000008 L6,107.300001 L0.3,119.200001 L6,131.000001 L0.3,142.900001 L6,154.800001 L0.3,166.700001 L6,178.600001 L0.3,190.500001 L6,202.400001 L0.3,214.300001 L6,226.200001 L0.3,238.100001 L6,250.000001 L0.3,261.900001 L6,273.700001 L0.3,285.600001 L6,297.500001 L0.3,309.400001 L6,321.300001 L0.3,333.200001 L0,333.200001 L0,0.200000763 L0,0.200000763 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

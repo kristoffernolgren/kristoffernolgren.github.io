@@ -1,0 +1,1 @@
+var Hoverable=function(t){this.el=$(t),this.text=this.el.text(),this.hoverText=this.el.attr("data-hoverable"),this.rebuild()};Hoverable.prototype.rebuild=function(){if(!app.ie){var t=$('<div class="button__default">'+this.text+"</div>"),e=$('<div class="button__hover">'+this.hoverText+"</div>");this.el.addClass("hoverable"),this.el.html("").append(t).append(e)}};
