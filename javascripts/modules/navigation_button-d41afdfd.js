@@ -1,1 +1,0 @@
-var NavigationButton=function(t){this.el=$(t),this.button=this.el.find(".navigation__button"),this.setListeners()};NavigationButton.prototype.setListeners=function(){var t=this;this.el.on("click",function(n){n.preventDefault(),t.button.toggleClass("navigation__button--active")})};
