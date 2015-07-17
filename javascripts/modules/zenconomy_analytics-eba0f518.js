@@ -1,0 +1,1 @@
+var Tracking=function(){};Tracking.prototype.init=function(){unconfirmed=!0,this.botCheck()},Tracking.prototype.botCheck=function(){_this=this,$(document).on("touchstart mousemove",function(n){$(document).off(n),unconfirmed&&(unconfirmed=!1,_this.Api("/guiapi/auth/verify"))})},Tracking.prototype.Api=function(n){return reqwest(n,function(n){console.log(n)})};
