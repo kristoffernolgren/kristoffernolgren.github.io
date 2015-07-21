@@ -1,0 +1,1 @@
+var State=function(t){var e=Cookies.get("_user_state"),a=$(t).attr("data-"+e);"undefined"!=typeof a&&$(t).text(a),a&&$(t).addClass("visible")};
