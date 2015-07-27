@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /onboarding
 Disallow: /dashboard
 Allow: /honungsburk

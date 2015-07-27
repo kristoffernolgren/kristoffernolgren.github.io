@@ -1,0 +1,1 @@
+var State=function(t){var e="data-"+Cookies.get("_user_state"),a=$(t).attr(e+"-text");new_url=$(t).attr(e+"-url"),"undefined"!=typeof a&&$(t).text(a),void 0!==typeof new_url&&$(t).attr("href",new_url),a&&$(t).addClass("visible")};
